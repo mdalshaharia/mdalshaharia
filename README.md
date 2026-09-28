@@ -1,3 +1,4 @@
+<img src="https://i.ibb.co/kg7dtrZ8/image.png" alt="me" width="" height=""/>
 <h1 align="center">Hi 👋, I'm Alshaharia Bhuiyan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
